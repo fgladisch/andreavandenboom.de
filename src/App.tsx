@@ -1,12 +1,9 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
 
 class App extends Component {
   render() {
-    return (
-      <h1>Diese Seite befindet sich im Aufbau.</h1>
-    );
+    return <h1>Diese Seite befindet sich im Aufbau.</h1>;
   }
 }
 
